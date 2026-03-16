@@ -36,3 +36,7 @@ $config = [
 - Backend: PHP (สำหรับ Configuration)
 - PDF Processing: pdf-lib & pdf.js
 - Fonts: TH Sarabun New (SIPA Thailand)
+
+## ตัวอย่าง
+![Alt Text](https://github.com/mamazaki/SmartStamp-PDF/blob/main/demo.gif)
+
